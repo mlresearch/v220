@@ -1,0 +1,96 @@
+---
+booktitle: Proceedings of the NeurIPS 2022 Competitions Track
+shortname: 'NeurIPS 2022: Competitions'
+volume: '220'
+year: '2022'
+start: 2022-11-28
+end: 2022-12-09
+published: 2022-08-31
+sections:
+- name: Preface
+  title: Preface
+- name: Competitions
+  title: Competitions
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: NEURIPS-COMPETITIONS-2022
+month: 0
+cycles: false
+bibtex_editor: Ciccone, Marco and Stolovitzky, Gustavo and Albrecht, Jacob
+editor:
+- given: Marco
+  family: Ciccone
+- given: Gustavo
+  family: Stolovitzky
+- given: Jacob
+  family: Albrecht
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the NeurIPS 2022 Competitions Track
+    Held in New Orleans, LA, Online on 28 November to 09 December 2022
+
+  Published as Volume 220 by the Proceedings of Machine Learning Research on 31 August 2022.
+
+  Volume Edited by:
+    Marco Ciccone
+    Gustavo Stolovitzky
+    Jacob Albrecht
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 28 Nov--09 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v220"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v220
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v220
+email: ''
+conference:
+  name: NeurIPS 2022 Competition Track
+  url: https://neurips.cc/Conferences/2022
+  location: New Orleans, LA, Online
+  dates:
+  - 2022-11-28
+  - 2022-11-29
+  - 2022-11-30
+  - 2022-12-01
+  - 2022-12-02
+  - 2022-12-03
+  - 2022-12-04
+  - 2022-12-05
+  - 2022-12-06
+  - 2022-12-07
+  - 2022-12-08
+  - 2022-12-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v220/neurips_2022_competitions.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v220/neurips_2022_competitions.bib
