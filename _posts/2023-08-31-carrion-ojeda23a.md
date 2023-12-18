@@ -21,7 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
-id: carrion-ojeda22a
+id: carrion-ojeda23a
 month: 0
 tex_title: 'NeurIPS’22 Cross-Domain MetaDL Challenge: Results and lessons learned'
 firstpage: 50
@@ -90,7 +90,7 @@ issued:
   - 2022
   - 8
   - 31
-pdf: https://proceedings.mlr.press/v220/carrion-ojeda22a/carrion-ojeda22a.pdf
+pdf: https://proceedings.mlr.press/v220/carrion-ojeda23a/carrion-ojeda23a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---

@@ -26,7 +26,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
-id: bashkirova22a
+id: bashkirova23a
 month: 0
 tex_title: 'VisDA 2022 Challenge: Domain Adaptation for Industrial Waste Sorting'
 firstpage: 104
@@ -88,7 +88,7 @@ issued:
   - 2022
   - 8
   - 31
-pdf: https://proceedings.mlr.press/v220/bashkirova22a/bashkirova22a.pdf
+pdf: https://proceedings.mlr.press/v220/bashkirova23a/bashkirova23a.pdf
 extras: []
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
