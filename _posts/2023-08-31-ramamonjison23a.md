@@ -56,7 +56,7 @@ author:
   family: Zhou
 - given: Yong
   family: Zhang
-date: 2022-08-31
+date: 2023-08-31
 address:
 container-title: Proceedings of the NeurIPS 2022 Competitions Track
 volume: '220'

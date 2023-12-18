@@ -78,7 +78,7 @@ author:
   family: Xie
 - given: Shuang
   family: Li
-date: 2022-08-31
+date: 2023-08-31
 address:
 container-title: Proceedings of the NeurIPS 2022 Competitions Track
 volume: '220'
