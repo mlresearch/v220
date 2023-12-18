@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check https://pro
 
 
 
-Published as Volume 220 by the Proceedings of Machine Learning Research on 31 August 2022.
+Published as Volume 220 by the Proceedings of Machine Learning Research on 31 August 2023.
 
 Volume Edited by:
   * Marco Ciccone
